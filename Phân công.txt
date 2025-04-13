@@ -1,0 +1,7 @@
+Task                  | Đảm nhiệm
+-----------------------------------
+#1 Heart Disease      | Âu
+#2 Palmer Penguins    | Hà
+#3 Additional Dataset | Triết
+
+Tạm thời, Âu đã xong Heart Disease. Anh em có thể bám form
